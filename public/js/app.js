@@ -1,0 +1,1 @@
+angular.module('rrgenie', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService', 'GeekCtrl', 'GeekService']);
